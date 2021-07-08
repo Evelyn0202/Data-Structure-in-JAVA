@@ -30,4 +30,5 @@
   * [8.1.1 Tree Definitions and Properties](8.1-general-trees/8.1.1-tree-definitions-and-properties.md)
   * [8.1.2 The Tree Abstract Data Type](8.1-general-trees/8.1.2-the-tree-abstract-data-type.md)
   * [8.1.3 Computing Depth and Height](8.1-general-trees/8.1.3-computing-depth-and-height.md)
+* [8.2 Binary Tree](8.2-binary-tree.md)
 
