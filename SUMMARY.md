@@ -30,5 +30,11 @@
   * [8.1.1 Tree Definitions and Properties](8.1-general-trees/8.1.1-tree-definitions-and-properties.md)
   * [8.1.2 The Tree Abstract Data Type](8.1-general-trees/8.1.2-the-tree-abstract-data-type.md)
   * [8.1.3 Computing Depth and Height](8.1-general-trees/8.1.3-computing-depth-and-height.md)
-* [8.2 Binary Tree](8.2-binary-tree.md)
+* [8.2 Binary Tree](8.2-binary-tree/README.md)
+  * [8.2.1 The Binary Tree Abstract Data Type](8.2-binary-tree/8.2.1-the-binary-tree-abstract-data-type.md)
+  * [8.2.2 Properties of Binary Trees](8.2-binary-tree/8.2.2-properties-of-binary-trees.md)
+* [8.3 Implementing Trees](8.3-implementing-trees/README.md)
+  * [8.3.1 Linked Structure for Binary Trees](8.3-implementing-trees/8.3.1-linked-structure-for-binary-trees.md)
+  * [8.3.2 Array-Based Representation of a Binary Tree](8.3-implementing-trees/8.3.2-array-based-representation-of-a-binary-tree.md)
+  * [8.3.3 Linked Structure for General Trees](8.3-implementing-trees/8.3.3-linked-structure-for-general-trees.md)
 
