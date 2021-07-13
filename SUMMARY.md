@@ -37,4 +37,8 @@
   * [8.3.1 Linked Structure for Binary Trees](8.3-implementing-trees/8.3.1-linked-structure-for-binary-trees.md)
   * [8.3.2 Array-Based Representation of a Binary Tree](8.3-implementing-trees/8.3.2-array-based-representation-of-a-binary-tree.md)
   * [8.3.3 Linked Structure for General Trees](8.3-implementing-trees/8.3.3-linked-structure-for-general-trees.md)
+* [8.4 Tree Traversal Algorithms](8.4-tree-traversal-algorithms/README.md)
+  * [8.4.1Preorder and Postorder Traversals of General Trees](8.4-tree-traversal-algorithms/8.4.1preorder-and-postorder-traversals-of-general-trees.md)
+  * [Inorder Traversal of a Binary Tree](8.4-tree-traversal-algorithms/inorder-traversal-of-a-binary-tree.md)
+* [Untitled](untitled-2.md)
 
