@@ -39,6 +39,10 @@
   * [8.3.3 Linked Structure for General Trees](8.3-implementing-trees/8.3.3-linked-structure-for-general-trees.md)
 * [8.4 Tree Traversal Algorithms](8.4-tree-traversal-algorithms/README.md)
   * [8.4.1Preorder and Postorder Traversals of General Trees](8.4-tree-traversal-algorithms/8.4.1preorder-and-postorder-traversals-of-general-trees.md)
-  * [Inorder Traversal of a Binary Tree](8.4-tree-traversal-algorithms/inorder-traversal-of-a-binary-tree.md)
-* [Untitled](untitled-2.md)
+  * [8.4.3 Inorder Traversal of a Binary Tree](8.4-tree-traversal-algorithms/inorder-traversal-of-a-binary-tree.md)
+  * [8.4.4 Implementing Tree Traversals in Java](8.4-tree-traversal-algorithms/8.4.4-implementing-tree-traversals-in-java.md)
+* [11.1 Binary Search Trees](untitled-2/README.md)
+  * [11.1.1 Searching Within a Binary Search Tree](untitled-2/11.1.1-searching-within-a-binary-search-tree.md)
+  * [11.1.2 Insertions and Deletions](untitled-2/11.1.2-insertions-and-deletions.md)
+  * [11.1.3 Java Implementation](untitled-2/11.1.3-java-implementation.md)
 

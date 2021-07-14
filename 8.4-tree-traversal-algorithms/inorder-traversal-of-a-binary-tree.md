@@ -2,7 +2,7 @@
 description: Data Structures and Algorithms in Java™
 ---
 
-# Inorder Traversal of a Binary Tree
+# 8.4.3 Inorder Traversal of a Binary Tree
 
 The **inorder traversal** of a binary tree T can be informally viewed as visiting the nodes of T “**from left to right.**”
 
