@@ -45,4 +45,6 @@
   * [11.1.1 Searching Within a Binary Search Tree](untitled-2/11.1.1-searching-within-a-binary-search-tree.md)
   * [11.1.2 Insertions and Deletions](untitled-2/11.1.2-insertions-and-deletions.md)
   * [11.1.3 Java Implementation](untitled-2/11.1.3-java-implementation.md)
+  * [11.1.4 Performance of a Binary Search Tree](untitled-2/11.1.4-performance-of-a-binary-search-tree.md)
+* [11.2 Balanced Search Trees](11.2-balanced-search-trees.md)
 
