@@ -14,8 +14,9 @@ An **iterator** is a software design pattern that abstracts the process of scann
 
 As an example, the following loop can be used to remove all negative numbers from an ArrayList of floating-point values.
 
-```text
-ArrayList<Double> data; // populate with random numbers (not shown) Iterator<Double> walk = data.iterator();
+```java
+ArrayList<Double> data; // populate with random numbers (not shown) 
+Iterator<Double> walk = data.iterator();
 while (walk.hasNext()){
     if (walk.next() < 0.0){
         walk.remove( );
