@@ -47,4 +47,9 @@
   * [11.1.3 Java Implementation](untitled-2/11.1.3-java-implementation.md)
   * [11.1.4 Performance of a Binary Search Tree](untitled-2/11.1.4-performance-of-a-binary-search-tree.md)
 * [11.2 Balanced Search Trees](11.2-balanced-search-trees.md)
+* [11.3 AVL Trees](11.3-avl-trees/README.md)
+  * [11.3.1 Update Operations](11.3-avl-trees/11.3.1-update-operations.md)
+  * [11.3.2 Java Implementation](11.3-avl-trees/11.3.2-java-implementation.md)
+* [11.4 Splay Trees](11.4-splay-trees/README.md)
+  * [11.4.1 Splaying](11.4-splay-trees/11.4.1-splaying.md)
 
