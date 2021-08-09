@@ -57,5 +57,5 @@
   * [11.4.1 Splaying](11.4-splay-trees/11.4.1-splaying.md)
 * [12.1 Merge-Sort](12.1-merge-sort/README.md)
   * [12.1.1 Divide-and-Conquer](12.1-merge-sort/12.1.1-divide-and-conquer.md)
-  * [12.1.3 The Running Time of Merge-Sort](12.1-merge-sort/12.1.3-the-running-time-of-merge-sort.md)
+  * [12.1.3 The Running Time of Merge Sort](12.1-merge-sort/12.1.3-the-running-time-of-merge-sort.md)
 
