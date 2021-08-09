@@ -55,4 +55,5 @@
   * [11.3.2 Java Implementation](11.3-avl-trees/11.3.2-java-implementation.md)
 * [11.4 Splay Trees](11.4-splay-trees/README.md)
   * [11.4.1 Splaying](11.4-splay-trees/11.4.1-splaying.md)
+* [12.1 Merge-Sort](12.1-merge-sort.md)
 
