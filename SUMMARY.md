@@ -58,4 +58,6 @@
 * [12.1 Merge-Sort](12.1-merge-sort/README.md)
   * [12.1.1 Divide-and-Conquer](12.1-merge-sort/12.1.1-divide-and-conquer.md)
   * [12.1.3 The Running Time of Merge Sort](12.1-merge-sort/12.1.3-the-running-time-of-merge-sort.md)
+* [12.2 Quick-Sort](12.2-quick-sort.md)
+* [12.4 Comparing Sorting Algorithms](12.4-comparing-sorting-algorithms.md)
 
